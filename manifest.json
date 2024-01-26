@@ -1,0 +1,17 @@
+{
+    "name": "Weather: Do I need an umbrella?",
+    "short_name": "Weather",
+    "description": "Weather forecast infromation",
+    "start_url": "/index.html",
+    "background_color": "#3367D6",
+    "theme_color": "#3367D6",
+    "display": "standalone",
+    "orientation": "portrait",
+    "icons": [
+        {
+            "src": "img/catbaal192px.png",
+            "type": "image/png",
+            "sizes": "192x192"
+        }
+    ]
+}
